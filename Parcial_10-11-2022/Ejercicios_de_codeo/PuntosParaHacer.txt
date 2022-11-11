@@ -1,0 +1,9 @@
+Ejercicios de codeo:
+Crear una clase -con al menos 2 métodos y 2 atributos-
+Crear un objeto
+Crear una interfaz - implementarla en una clase-
+Crear una clase Abstracta
+Crear una relación de herencia
+Crear un ejemplo de composición
+Queda a elección de cada uno de los alumnos, si hacer los ejercicios por separado o en caso 
+contrario hacer todo en una misma clase
