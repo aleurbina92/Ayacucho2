@@ -1,0 +1,1 @@
+Ford,92,verde;Chevrolet, 2005, blanco; Renault 12, 88, rojo; Toyota Etios, 2022, negro;
